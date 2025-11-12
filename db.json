@@ -1,0 +1,27 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "titulo": "Atualizar relatório financeiro",
+      "descricao": "Gerar planilha mensal",
+      "pessoa": "Carla",
+      "tempo": "1h"
+    },
+    {
+      "id": 2,
+      "titulo": "Reunião com equipe",
+      "descricao": "Planejamento sprint",
+      "pessoa": "Lucas",
+      "tempo": "45min"
+    },
+    {
+      "id": 3,
+      "titulo": "Revisar código",
+      "descricao": "Pull request #42",
+      "pessoa": "Marina",
+      "tempo": "30min"
+    }
+  ]
+}
+
+

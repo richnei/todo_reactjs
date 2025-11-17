@@ -45,7 +45,6 @@ export default function App() {
 
   return (
   <div className="container">
-    {/* Navegação simples */}
     <nav style={{ marginBottom: "20px", display: "flex", gap: "12px" }}>
       <Link to="/">Tarefas</Link>
       <Link to="/dados">Dados</Link>
@@ -53,7 +52,6 @@ export default function App() {
 
     <Routes>
 
-      {/* Rota da sua aplicação principal */}
       <Route
         path="/"
         element={
@@ -87,7 +85,6 @@ export default function App() {
         path="/dados"
         element={<PaginaDados />}
       />
-
     </Routes>
   </div>
 );
